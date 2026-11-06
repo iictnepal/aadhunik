@@ -1,0 +1,6 @@
+{
+  "name": "Aadhunik Jana Saving & Credit Co-operative",
+  "description": "Official bilingual portal for Aadhunik Jana Saving & Credit Co-operative Ltd. (आधुनिक जन बचत तथा ऋण सहकारी संस्था लि.), Nagarjun-4, Kathmandu, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
